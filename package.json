@@ -1,0 +1,11 @@
+{
+  "name": "renatorib",
+  "version": "0.1.0",
+  "description": "renatorib",
+  "main": "index.js",
+  "bin": {
+    "renatorib": "./bin.js"
+  },
+  "author": "<hi@rena.to>",
+  "license": "ISC"
+}
